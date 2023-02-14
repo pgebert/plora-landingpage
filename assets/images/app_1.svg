@@ -7,37 +7,9 @@
    viewBox="0 0 153.31151 193.14583"
    version="1.1"
    id="svg23413"
-   inkscape:export-filename="app_1_1.svg"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="app_1.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview23415"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     showgrid="false"
-     showguides="true"
-     inkscape:zoom="5.2239618"
-     inkscape:cx="117.72674"
-     inkscape:cy="451.95583"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g29167" />
   <defs
      id="defs23410">
     <linearGradient
@@ -103,7 +75,7 @@
        style="color-interpolation-filters:sRGB"
        id="filter16183"
        x="-0.0046202475"
-       y="-0.0022210967"
+       y="-0.0022210968"
        width="1.0092405"
        height="1.0044422">
       <feGaussianBlur
@@ -113,8 +85,8 @@
     <filter
        style="color-interpolation-filters:sRGB"
        id="filter16275"
-       x="-0.0046558379"
-       y="-0.0022129644"
+       x="-0.004655838"
+       y="-0.0022129645"
        width="1.0093117"
        height="1.0044259">
       <feGaussianBlur
@@ -221,7 +193,7 @@
        id="filter5347"
        x="-0.10877967"
        width="1.2175593"
-       y="-0.082313926"
+       y="-0.082313925"
        height="1.1646279">
       <feGaussianBlur
          stdDeviation="0.030983682"
@@ -247,47 +219,16 @@
       <path
          style="fill:none;stroke-width:0"
          id="path26892"
-         sodipodi:type="arc"
-         sodipodi:cx="386.26651"
-         sodipodi:cy="297.88242"
-         sodipodi:rx="205.50571"
-         sodipodi:ry="203.25058"
-         sodipodi:start="0"
-         sodipodi:end="6.2643373"
-         sodipodi:open="true"
-         sodipodi:arc-type="arc"
          d="M 591.77222,297.88242 A 205.50571,203.25058 0 0 1 387.23485,501.13074 205.50571,203.25058 0 0 1 180.76993,299.79782 205.50571,203.25058 0 0 1 383.36158,94.652143 205.50571,203.25058 0 0 1 591.73572,294.05177" />
-    </clipPath>
-    <clipPath
-       id="cp141">
-      <path
-         transform="matrix(1,0,0,-1,0,405)"
-         d="m 71.46315,50.22017 h 174.1884 V 371.83485 H 71.46315 Z"
-         id="path25900" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath34314">
-      <g
-         id="g34318">
-        <path
-           d="M -14.39189,472.61652 H 274.51554 V 50.3999 H -14.39189 Z"
-           id="path34316" />
-      </g>
     </clipPath>
   </defs>
   <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-40.584977,-29.844545)">
     <g
        id="g3895"
        transform="translate(98.129435,29.844542)"
-       clip-path="none"
-       inkscape:export-filename="app_1_1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       clip-path="none">
       <path
          id="path3891"
          style="fill:#443c46;fill-opacity:1;stroke-width:0.271631;stop-color:#000000"
@@ -994,9 +935,6 @@
     <g
        id="g4153"
        transform="translate(98.646485,29.844542)"
-       inkscape:export-filename="app_1.svg"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"
        clip-path="none">
       <rect
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;stop-color:#000000"
@@ -1096,19 +1034,13 @@
        fill="#d9d6d4"
        id="path3949-2"
        style="fill:#ffffff;stroke-width:0.467309"
-       clip-path="none"
-       inkscape:export-filename="app_1_1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       clip-path="none" />
     <path
        d="m 175.99465,125.75869 c 0,2.47791 -2.18725,4.48647 -4.8855,4.48647 -2.69832,0 -4.88556,-2.00856 -4.88556,-4.48647 0,-2.47786 2.18724,-4.48641 4.88556,-4.48641 2.69825,0 4.8855,2.00855 4.8855,4.48641"
        fill="#d9d6d4"
        id="path3949-2-8"
        style="fill:#ffffff;stroke-width:0.467309"
-       clip-path="none"
-       inkscape:export-filename="app_1_1.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       clip-path="none" />
     <path
        d="m 172.50727,199.98909 c 0.15627,0 0.29118,-0.0519 0.40476,-0.15622 0.11329,-0.10414 0.16986,-0.22962 0.16986,-0.37671 0,-0.14721 -0.0565,-0.27279 -0.16986,-0.37687 -0.11358,-0.10401 -0.24849,-0.15623 -0.40476,-0.15623 -0.16421,0 -0.30187,0.0522 -0.41338,0.15623 -0.1115,0.10414 -0.16718,0.22966 -0.16718,0.37687 0,0.14709 0.0557,0.27263 0.16718,0.37671 0.1115,0.10427 0.24917,0.15622 0.41338,0.15622 m -0.37522,-2.28807 h 0.73293 l 1.61854,3.76854 h -0.68615 l -0.52788,-1.24892 0.23465,0.28531 h -2.02893 l 0.24049,-0.28531 -0.53372,1.24892 h -0.66845 z"
        fill="#d9d6d4"
