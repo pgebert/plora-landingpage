@@ -1,10 +1,16 @@
 # Plora Landingpage
 
-## Requirements
+## Deployment 
+
+Copy all files into your webspace and get started 🚀
+
+## Development
+
+### Requirements
 
 - npm / node
 
-## Getting started
+### Getting started
 
 ```bash
 npm install
